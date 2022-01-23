@@ -96,7 +96,7 @@ export default {
 			text: 'Welcome',
 			children: [
 				'/',
-				'/setup.html',
+				'/setup.md',
 			],
 		},
 		{
