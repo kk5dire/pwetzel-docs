@@ -1,4 +1,7 @@
-![Setting up the bot](https://i.ibb.co/qyc4w8t/setup.png)
+<div align="center" style="padding-top:10px">
+	<img src="https://i.ibb.co/T135v9Y/setup.png" title="Setup" alt="Setup" />
+</div>
+
 # Setting up the bot!
 
 ## Vist our website

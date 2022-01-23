@@ -1,4 +1,7 @@
-![Commands](https://i.ibb.co/gVNWdnQ/commands.png)
+<div align="center" style="padding-top:25px">
+	<img src="https://i.ibb.co/hBmSRnc/commands.png" title="Commands" alt="Commands" />
+</div>
+
 # Commands Documentation
 
 Commands are the simplest way to interact with the bot!  
