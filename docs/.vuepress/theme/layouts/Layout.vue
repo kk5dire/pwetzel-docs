@@ -18,7 +18,7 @@
 				<Notification storage-key="ay-best">
 					<span class="notification-icon"><Heart /></span>
 					<span>
-						Ay is the best &lt3
+						Documentation is a work in progress and completness may vary, thanks for supporting us in these hard times!
 					</span>
 				</Notification>
 			</Notifications>
