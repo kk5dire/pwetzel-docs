@@ -3,91 +3,91 @@ export default {
 		{
 			text: 'Slash Commands',
 			children: [
-				'/categories/slash/',
+				'/categories/slash/topic.md',
 			],
 		},
 		{
 			text: 'Fun',
 			children: [
-				'/categories/fun/',
+				'/categories/fun/topic.md',
 			],
 		},
 		{
 			text: 'Actions',
 			children: [
-				'/categories/actions/',
+				'/categories/actions/topic.md',
 			],
 		},
 		{
 			text: 'Image',
 			children: [
-				'/categories/image/',
+				'/categories/image/topic.md',
 			],
 		},
 		{
 			text: 'Economy',
 			children: [
-				'/categories/economy/',
+				'/categories/economy/topic.md',
 			],
 		},
 		{
 			text: 'Mini-Games',
 			children: [
-				'/categories/games/',
+				'/categories/games/topic.md',
 			],
 		},
 		{
 			text: 'Information',
 			children: [
-				'/categories/info/',
+				'/categories/info/topic.md',
 			],
 		},
 		{
 			text: 'Moderation',
 			children: [
-				'/categories/mod/',
+				'/categories/mod/topic.md',
 			],
 		},
 		{
 			text: 'Utility',
 			children: [
-				'/categories/utility/',
+				'/categories/utility/topic.md',
 			],
 		},
 		{
 			text: 'Givaways',
 			children: [
-				'/categories/gaw/',
+				'/categories/gaw/topic.md',
 			],
 		},
 		{
 			text: 'Music',
 			children: [
-				'/categories/music/',
+				'/categories/music/topic.md',
 			],
 		},
 		{
 			text: 'Applications',
 			children: [
-				'/categories/apps/',
+				'/categories/apps/topic.md',
 			],
 		},
 		{
 			text: 'Donations',
 			children: [
-				'/categories/dono/',
+				'/categories/dono/topic.md',
 			],
 		},
 		{
 			text: 'Chatbot',
 			children: [
-				'/categories/chat/',
+				'/categories/chat/topic.md',
 			],
 		},
 		{
 			text: 'Settings',
 			children: [
-				'/categories/options/',
+				'/categories/options/topic.md',
 			],
 		},
 	],
