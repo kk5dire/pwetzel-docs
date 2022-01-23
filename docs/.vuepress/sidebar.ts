@@ -30,7 +30,6 @@ export default {
 			text: 'Commands',
 			children: [
 				'/categories/',
-				'/categories/economy/command-name3.html',
 			],
 		},
 	],
