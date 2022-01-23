@@ -1,3 +1,4 @@
+![Commands](https://i.ibb.co/gVNWdnQ/commands.png)
 # Commands Documentation
 
 Commands are the simplest way to interact with the bot!  
