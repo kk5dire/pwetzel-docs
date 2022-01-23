@@ -1,6 +1,6 @@
 ![Hello](https://i.ibb.co/hF0D8g7/banner.png)
 ::: tip
-   This website is currently underdevelopment and contains little or incorrect content, Please stand by while content gets added or help by [Expanding the docs](https://github.com/kk5dire/pwetzel-docs/issues)
+   This website is currently under development and contains little or incorrect content, Please stand by while content gets added or help by [Expanding the docs](https://github.com/kk5dire/pwetzel-docs/issues)
 :::
 # Welcome to the Pwetzel bot Documentation!
 Here you will find info about the bot and its many commands
