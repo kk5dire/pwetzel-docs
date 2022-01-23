@@ -21,7 +21,7 @@ export default {
 	],
 	'/': [
 		{
-			text: 'Pwetzel Bot',
+			text: 'Welcome',
 			children: [
 				'/',
 			],
@@ -30,15 +30,7 @@ export default {
 			text: 'Commands',
 			children: [
 				'/categories/',
-			],
-		},
-		{
-			text: 'API',
-			children: [
-				'/api/',
-				'/api/authorization.md',
-				'/api/ratelimits.md',
-				'/api/endpoints.md',
+				'/catagories/economy/command-name3.md',
 			],
 		},
 	],
