@@ -8,7 +8,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 	templateDev: path.join(__dirname, 'templates', 'index.dev.html'),
 	templateSSR: path.join(__dirname, 'templates', 'index.ssr.html'),
 	lang: 'en-US',
-	title: 'Pwetzel',
+	title: 'Pwetzel - Documentation',
 	description: 'Documentaion for pwetzel.',
 	head: [
 		['meta', { charset: 'utf-8' }],
@@ -16,7 +16,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		['link', { rel: 'icon', href: '/favicon.png' }],
 		['meta', { name: 'theme-color', content: '#3eaf7c' }],
 		['meta', { name: 'twitter:card', content: 'summary' }],
-		['meta', { property: 'og:title', content: 'Pwetzel Docs' }],
+		['meta', { property: 'og:title', content: 'Pwetzel - Docs' }],
 		['meta', { property: 'og:description', content: 'Documentaion for Pwetzel' }],
 		['meta', { property: 'og:type', content: 'website' }],
 		['meta', { property: 'og:url', content: 'https://docs.pwetzel.xyz/' }],
@@ -36,6 +36,11 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 			{
 				text: 'Support Server',
 				link: 'https://discord.com/invite/dBMKZ4KzVz',
+			},
+			
+			{
+				text: 'Hello,
+				link: 'https://google.com',
 			},
 		],
 		themePlugins: {
