@@ -3,7 +3,7 @@
 </div>
 
 ::: tip
-   This website is currently under development and contains little or incorrect content, Please stand by while content gets added or help by [Expanding the docs](https://github.com/kk5dire/pwetzel-docs/issues/new/choose)
+   This website is currently under development and contains little or incorrect content, Please stand by while content gets added or help by [Expanding the docs](https://docs.pwetzel.xyz/contributing.html)
 :::
 
 # Welcome to the Pwetzel bot Documentation!
