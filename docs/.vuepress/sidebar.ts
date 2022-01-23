@@ -15,7 +15,7 @@ export default {
 		{
 			text: 'Actions',
 			children: [
-				'/categories/actions/,
+				'/categories/actions/',
 			],
 		},
 		{
