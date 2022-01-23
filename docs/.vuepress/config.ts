@@ -34,10 +34,6 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		lastUpdated: true,
 		navbar: [
 			{
-				text: 'Invite Bot',
-				link: 'https://discord.com/api/oauth2/authorize?client_id=723112579584491571&permissions=8&scope=bot%20applications.commands&redirect_uri=https%3A%2F%2Fpwetzel.xyz%2Fthankyou',
-			},
-			{
 				text: 'Website',
 				link: 'https://pwetzel.xyz',
 			},
