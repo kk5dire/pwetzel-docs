@@ -1,14 +1,1 @@
-# What's new
-- Your mom
-
-## New Commands
-
-- test
-
-## Bug fixes
-
-- none
-
-## QOL improvements
-
-- none
+Test commit, ignore me website is still not complete!
