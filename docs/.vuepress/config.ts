@@ -39,7 +39,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 			},
 			
 			{
-				text: 'Hello,
+				text: 'Hello',
 				link: 'https://google.com',
 			},
 		],
