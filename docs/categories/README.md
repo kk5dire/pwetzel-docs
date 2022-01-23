@@ -1,3 +1,5 @@
-# Categories
+# Commands Documentation
 
-## Click on a command name to learn more!
+::: tip
+Click on a command to learn more!
+:::
