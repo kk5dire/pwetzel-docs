@@ -97,6 +97,7 @@ export default {
 			children: [
 				'/',
 				'/setup.md',
+				'/contributing.md',
 			],
 		},
 		{
