@@ -1,5 +1,5 @@
-<div align="center">
-	<img src="https://i.ibb.co/hF0D8g7/banner.png" title="Pwetzel Docs" alt="Pwetzel Docs" />
+<div align="center" style="padding-top:25px">
+	<img src="https://i.ibb.co/0DKx2wz/newbanner.png" title="Pwetzel Docs" alt="Pwetzel Docs" />
 </div>
 
 ::: tip
