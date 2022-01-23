@@ -6,4 +6,4 @@ check out each command here by clicking on them! or in a server type ``,help`` t
 
 Always remember to abide by our own and discord's Terms of Use when entering commands!
 
-
+To learn how to setup the bot checkout [This page](/botsetup)
