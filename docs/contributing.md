@@ -1,3 +1,5 @@
+![Contribute](https://i.ibb.co/v3p00yN/contribute.png)
+
 # Contributing to the Pwetzel Docs
 ## If you want to contriube but dont want to get all dirty and write code consider opening a issue with your requests!  
 Which you can do [here.](https://github.com/kk5dire/pwetzel-docs/issues/new/choose)
