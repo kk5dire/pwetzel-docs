@@ -1,2 +1,3 @@
 # Pwetzel Docs
-https://pwetzel.xyz https://docs.pwetzel.xyz
+https://pwetzel.xyz
+https://docs.pwetzel.xyz
