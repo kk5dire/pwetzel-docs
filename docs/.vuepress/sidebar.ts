@@ -3,19 +3,19 @@ export default {
 		{
 			text: 'Fun',
 			children: [
-				'/categories/command-name1.md',
+				'/categories/fun/command-name1.md',
 			],
 		},
 		{
 			text: 'Actions',
 			children: [
-				'/categories/command-name2.md',
+				'/categories/actions/command-name2.md',
 			],
 		},
 		{
 			text: 'Economy',
 			children: [
-				'/categories/command-name3.md',
+				'/categories/economy/command-name3.md',
 			],
 		},
 	],
