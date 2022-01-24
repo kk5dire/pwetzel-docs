@@ -6,7 +6,7 @@ Returns a random content from a subreddit
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 4 Seconds
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,rd memes`
 ## Demo 
-![Demo](https://i.ibb.co/6DLDcG7/reddit.gif)
+![Demo](https://i.imgur.com/oqRFkMr.gif)
 

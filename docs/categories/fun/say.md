@@ -6,7 +6,7 @@ Sends the specified message
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,say hello world`
 ## Demo 
-![Demo](https://i.ibb.co/f0PRYrP/echo.gif)
+![Demo](https://i.imgur.com/XjZyvQO.gif)
 

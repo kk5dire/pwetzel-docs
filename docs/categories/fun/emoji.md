@@ -12,5 +12,5 @@ General
 ## Examples
 `,emote`
 ## Demo 
-![Demo](https://i.ibb.co/8cMfrHv/emote.gif)
+![Demo](https://i.imgur.com/ol0abpb.gif)
 

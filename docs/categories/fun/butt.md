@@ -6,7 +6,7 @@ Determines a user's butt quality.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format
@@ -14,6 +14,6 @@ General
 ## Syntax
 `<user>` - Target of command
 ## Examples
-`,cmd hello hello`
+`,butt hello hello`
 ## Demo 
-![Demo](https://i.ibb.co/dmMgVMz/butt.gif)
+![Demo](https://i.imgur.com/fz97eOS.gif)

@@ -6,8 +6,8 @@ Responds with a random "Never Have I Ever..." statement.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Demo 
-![Demo](https://i.ibb.co/c8p32Jb/nhie.gif)
+![Demo](https://i.imgur.com/zwThyLG.gif)

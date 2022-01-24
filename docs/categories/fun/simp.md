@@ -6,7 +6,7 @@ Are you a simp?
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,simp @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/5hTCwJY/simp.gif)
+![Demo](https://i.imgur.com/8PQ2okg.gif)
 

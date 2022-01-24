@@ -6,7 +6,7 @@ Determines your Crime Coefficient.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format
@@ -16,4 +16,4 @@ General
 ## Examples
 `,psycho-pass @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/NSfGChh/psychopass.gif)
+![Demo](https://i.imgur.com/kJvxOMn.gif)

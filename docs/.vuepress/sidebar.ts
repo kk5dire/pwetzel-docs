@@ -4,6 +4,9 @@ export default {
 			text: 'Slash Commands',
 			children: [
 				'/categories/slash/topic.md',
+				'/categories/slash/calc.md',
+				'/categories/slash/cat.md',
+				'/categories/slash/meme.md'
 			],
 		},
 		{

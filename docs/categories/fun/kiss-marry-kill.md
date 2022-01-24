@@ -8,7 +8,7 @@ Determins who to kiss, who to marry, and who to kill
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS  `
+`Embed Links  `
 ### Cooldown
 1 Second
 ## Format
@@ -18,5 +18,5 @@ General
 ## Examples
 `,kmf @Kk5dire @IYA @Pwetzel`
 ## Demo 
-![Demo](https://i.ibb.co/7RBXNWg/kmf.gif)
+![Demo](https://i.imgur.com/A0dlMQM.gif)
 

@@ -1,4 +1,4 @@
-# CoinFlip
+# Coinflip
 Flips a coin (or coins)
 
 ## Aliases
@@ -6,7 +6,7 @@ Flips a coin (or coins)
 ## Permit
 General
 ### Bot Permits
-`ATTACH_FILES` `EMBED_LINKS`
+`Attach Files` `Embed Links`
 ### Cooldown
 2 seconds
 ## Format
@@ -16,4 +16,4 @@ General
 ## Examples
 `,cf 2`
 ## Demo 
-![Demo](https://i.ibb.co/kygHFcG/cf.gif)
+![Demo](https://i.imgur.com/lARbtXs.gif)

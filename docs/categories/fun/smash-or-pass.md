@@ -6,7 +6,7 @@ Determines if a user is worthy of a smash or a pass
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,smash-or-pass @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/sQ0XJB6/smash-pass.gif)
+![Demo](https://i.imgur.com/uLU670N.gif)
 

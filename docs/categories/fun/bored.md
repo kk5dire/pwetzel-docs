@@ -6,7 +6,7 @@ Responds with a random activity to try when you're bored.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 2 Seconds
 ## Format
@@ -14,4 +14,4 @@ General
 ## Examples
 `,bored`
 ## Demo 
-![Demo](https://i.ibb.co/bJnXm8y/bored.gif)
+![Demo](https://i.imgur.com/4AnGaLP.gif)

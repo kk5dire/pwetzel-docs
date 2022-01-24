@@ -4,7 +4,7 @@ Dare someone
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 3 seconds
 ## Format
@@ -14,4 +14,4 @@ General
 ## Examples
 `,dare @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/YhRQ2tq/dare.gif)
+![Demo](https://i.imgur.com/k7CXwO6.gif)

@@ -6,7 +6,7 @@ Determines a user's cuteness
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,qt @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/m8tgR60/qt.gif)
+![Demo](https://i.imgur.com/NQnROBN.gif)
 

@@ -6,7 +6,7 @@ Sends the specified message in random ascii
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format
@@ -16,4 +16,4 @@ General
 ## Examples
 `,asc Hola!`
 ## Demo 
-![Demo](https://i.ibb.co/8cXjkqs/acs.gif)
+![Demo](https://i.imgur.com/29gpN38.gif)

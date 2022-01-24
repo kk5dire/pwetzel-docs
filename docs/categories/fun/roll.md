@@ -12,5 +12,5 @@ Generates a random number from 0
 ## Examples
 `,roll 10`
 ## Demo 
-![Demo](https://i.ibb.co/kQwv0DP/roll.gif)
+![Demo](https://i.imgur.com/KFbGQ4R.gif)
 

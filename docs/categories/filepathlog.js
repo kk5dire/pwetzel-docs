@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-const folder = 'fun';
+const folder = 'slash';
 
 const directoryPath = path.join(__dirname, folder);
 

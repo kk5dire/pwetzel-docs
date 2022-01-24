@@ -6,7 +6,7 @@ Determines a user's coolness
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format
@@ -16,5 +16,5 @@ General
 ## Examples
 `,cool @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/YXdg3c5/cool.gif)
+![Demo](https://i.imgur.com/pvBIkZ3.gif)
 

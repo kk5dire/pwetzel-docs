@@ -4,7 +4,7 @@ Chat with the bot! (Alternative to chatbot channel)
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format
@@ -14,5 +14,5 @@ General
 ## Examples
 `,chat hello hello`
 ## Demo 
-![Demo](https://i.ibb.co/m8dk6z7/chat.gif)
+![Demo](https://i.imgur.com/KpNiLJv.gif)
 
