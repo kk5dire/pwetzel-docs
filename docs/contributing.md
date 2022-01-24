@@ -27,3 +27,6 @@ Try to avoid gendered and otherwise non-inclusive language. Examples are:
 - Dummy value -> Placeholder, sample value
 
 Try to keep things as neet as possible when writing code!!
+
+## Roadmap for Pwetzel Docs
+Please feel free to check out the planned updates and roadmap for the docs [here.](https://app.milanote.com/1NbO0W1f1svE2y?p=v2nXKMoz1KK)
