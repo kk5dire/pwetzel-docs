@@ -14,6 +14,6 @@ General
 ## Syntax
 `<user>` - Target of command
 ## Examples
-`,cmd hello hello`
+`,butt hello hello`
 ## Demo 
 ![Demo](https://i.ibb.co/dmMgVMz/butt.gif)
