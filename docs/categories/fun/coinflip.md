@@ -1,4 +1,4 @@
-# CoinFlip
+# Coinflip
 Flips a coin (or coins)
 
 ## Aliases
@@ -16,4 +16,4 @@ General
 ## Examples
 `,cf 2`
 ## Demo 
-![Demo](https://i.ibb.co/kygHFcG/cf.gif)
+![Demo](https://i.imgur.com/lARbtXs.gif)

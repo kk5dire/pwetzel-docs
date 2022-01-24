@@ -16,5 +16,5 @@ General
 ## Examples
 `,smash-or-pass @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/sQ0XJB6/smash-pass.gif)
+![Demo](https://i.imgur.com/uLU670N.gif)
 

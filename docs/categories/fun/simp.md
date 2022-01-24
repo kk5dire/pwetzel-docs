@@ -16,5 +16,5 @@ General
 ## Examples
 `,simp @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/5hTCwJY/simp.gif)
+![Demo](https://i.imgur.com/8PQ2okg.gif)
 

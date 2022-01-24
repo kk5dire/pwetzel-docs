@@ -16,4 +16,4 @@ General
 ## Examples
 `,psycho-pass @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/NSfGChh/psychopass.gif)
+![Demo](https://i.imgur.com/kJvxOMn.gif)

@@ -14,5 +14,5 @@ General
 ## Examples
 `,chat hello hello`
 ## Demo 
-![Demo](https://i.ibb.co/m8dk6z7/chat.gif)
+![Demo](https://i.imgur.com/KpNiLJv.gif)
 

@@ -16,5 +16,5 @@ General
 ## Examples
 `,say hello world`
 ## Demo 
-![Demo](https://i.ibb.co/f0PRYrP/echo.gif)
+![Demo](https://i.imgur.com/XjZyvQO.gif)
 

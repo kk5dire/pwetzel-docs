@@ -14,4 +14,4 @@ General
 ## Examples
 `,cat`
 ## Demo 
-![Demo](https://i.ibb.co/1JzhGRx/cat.gif)
+![Demo](https://i.imgur.com/DQXvL0U.gif)

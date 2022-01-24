@@ -10,4 +10,4 @@ General
 ### Cooldown
 1 Second
 ## Demo 
-![Demo](https://i.ibb.co/c8p32Jb/nhie.gif)
+![Demo](https://i.imgur.com/zwThyLG.gif)

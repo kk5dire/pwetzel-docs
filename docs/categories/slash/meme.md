@@ -10,5 +10,5 @@ General
 ## Examples
 `/meme`
 ## Demo 
-![Demo](https://i.ibb.co/RSDjSh5/meme.gif)
+![Demo](https://i.imgur.com/A5scVaZ.gif)
 

@@ -16,5 +16,5 @@ General
 ## Examples
 `,friend @kk5dire @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/d4rT4KG/friend.gif)
+![Demo](https://i.imgur.com/I9vOOjt.gif)
 

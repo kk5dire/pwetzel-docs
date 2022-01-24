@@ -16,5 +16,5 @@ General
 ## Examples
 `,waifu @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/9WQVZ1y/waifu.gif)
+![Demo](https://i.imgur.com/u99oMwE.gif)
 

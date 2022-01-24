@@ -16,4 +16,4 @@ General
 ## Examples
 `,8b Should I get married?`
 ## Demo 
-![Demo](https://i.ibb.co/VV7hhj1/8b.gif)
+![Demo](https://i.imgur.com/2IMB2ki.gif)

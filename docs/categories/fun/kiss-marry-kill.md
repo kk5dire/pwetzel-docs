@@ -18,5 +18,5 @@ General
 ## Examples
 `,kmf @Kk5dire @IYA @Pwetzel`
 ## Demo 
-![Demo](https://i.ibb.co/7RBXNWg/kmf.gif)
+![Demo](https://i.imgur.com/A0dlMQM.gif)
 

@@ -12,4 +12,4 @@ General
 ## Examples
 `,gay`
 ## Demo 
-![Demo](https://i.ibb.co/K5qdvT6/gay.gif)
+![Demo](https://i.imgur.com/jPl3Qiw.gif)

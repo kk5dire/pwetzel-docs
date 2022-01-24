@@ -14,4 +14,4 @@ General
 ## Examples
 `,bored`
 ## Demo 
-![Demo](https://i.ibb.co/bJnXm8y/bored.gif)
+![Demo](https://i.imgur.com/4AnGaLP.gif)

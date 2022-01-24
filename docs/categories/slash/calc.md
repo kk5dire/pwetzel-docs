@@ -10,5 +10,5 @@ General
 ## Examples
 `/calc 69+420`
 ## Demo 
-![Demo](https://i.ibb.co/5GmYgqr/calc.gif)
+![Demo](https://i.imgur.com/wvq02cy.gif)
 

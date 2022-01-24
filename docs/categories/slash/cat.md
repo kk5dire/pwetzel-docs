@@ -10,5 +10,5 @@ General
 ## Examples
 `/cat`
 ## Demo 
-![Demo](https://i.ibb.co/MBHNsVr/cat.gif)
+![Demo](https://i.imgur.com/B52rCIy.gif)
 

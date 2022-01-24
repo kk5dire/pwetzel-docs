@@ -16,5 +16,5 @@ General
 ## Examples
 `,rd memes`
 ## Demo 
-![Demo](https://i.ibb.co/6DLDcG7/reddit.gif)
+![Demo](https://i.imgur.com/oqRFkMr.gif)
 

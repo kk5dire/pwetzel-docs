@@ -16,4 +16,4 @@ General
 ## Examples
 `,butt hello hello`
 ## Demo 
-![Demo](https://i.ibb.co/dmMgVMz/butt.gif)
+![Demo](https://i.imgur.com/fz97eOS.gif)

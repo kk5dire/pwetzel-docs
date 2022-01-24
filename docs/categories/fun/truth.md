@@ -16,5 +16,5 @@ General
 ## Examples
 `,truth @IYA`
 ## Demo 
-![Demo](https://i.ibb.co/HHm3cbY/truth.gif)
+![Demo](https://i.imgur.com/fPmZ6z1.gif)
 
