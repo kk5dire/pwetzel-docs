@@ -31,8 +31,7 @@ export default {
 				'/categories/fun/pp.md',
 				'/categories/fun/psycho-pass.md',
 				'/categories/fun/reddit.md',
-				'/categories/fun/roll.md',
-				'/categories/fun/topic.md'
+				'/categories/fun/roll.md'
 			],
 		},
 		{
