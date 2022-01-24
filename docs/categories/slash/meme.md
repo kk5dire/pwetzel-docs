@@ -1,8 +1,6 @@
-# Gay
-You gay?
+# Meme
+Sends a trending meme!
 
-## Aliases
-`gayrate`
 ## Permit
 General
 ### Bot Permits
@@ -10,6 +8,7 @@ General
 ### Cooldown
 1 second
 ## Examples
-`,gay`
+`/meme`
 ## Demo 
-![Demo](https://i.ibb.co/K5qdvT6/gay.gif)
+![Demo](https://i.ibb.co/RSDjSh5/meme.gif)
+

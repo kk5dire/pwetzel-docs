@@ -1,8 +1,6 @@
-# Gay
-You gay?
+# Cat
+Shows random picture of a kitty! :3
 
-## Aliases
-`gayrate`
 ## Permit
 General
 ### Bot Permits
@@ -10,6 +8,7 @@ General
 ### Cooldown
 1 second
 ## Examples
-`,gay`
+`/cat`
 ## Demo 
-![Demo](https://i.ibb.co/K5qdvT6/gay.gif)
+![Demo](https://i.ibb.co/MBHNsVr/cat.gif)
+

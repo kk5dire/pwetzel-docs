@@ -6,7 +6,7 @@ See how good of a waifu you are
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format

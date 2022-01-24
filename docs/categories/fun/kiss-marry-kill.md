@@ -8,7 +8,7 @@ Determins who to kiss, who to marry, and who to kill
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS  `
+`Embed Links  `
 ### Cooldown
 1 Second
 ## Format

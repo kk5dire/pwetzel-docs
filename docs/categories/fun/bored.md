@@ -6,7 +6,7 @@ Responds with a random activity to try when you're bored.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 2 Seconds
 ## Format

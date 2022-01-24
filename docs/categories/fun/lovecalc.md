@@ -6,7 +6,7 @@ See how much love there is between you and someone
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Examples

@@ -1,8 +1,6 @@
-# Gay
-You gay?
+# Calc
+Do math calculations
 
-## Aliases
-`gayrate`
 ## Permit
 General
 ### Bot Permits
@@ -10,6 +8,7 @@ General
 ### Cooldown
 1 second
 ## Examples
-`,gay`
+`/calc 69+420`
 ## Demo 
-![Demo](https://i.ibb.co/K5qdvT6/gay.gif)
+![Demo](https://i.ibb.co/5GmYgqr/calc.gif)
+

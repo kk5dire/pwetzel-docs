@@ -6,7 +6,7 @@ Determines a user's butt quality.
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format

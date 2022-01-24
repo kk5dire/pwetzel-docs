@@ -6,7 +6,7 @@ Determines if a user is worthy of a smash or a pass
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format

@@ -6,7 +6,7 @@ Sends a random kitty!
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 3 Seconds
 ## Format

@@ -6,7 +6,7 @@ See how big your or friend's pp is
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Demo 

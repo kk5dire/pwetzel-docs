@@ -6,7 +6,7 @@ Determines a users' looks
 ## Permit
 General
 ### Bot Permits
-`ATTACH_FILES`, `EMBED_LINKS`
+`Attach Files`, `Embed Links`
 ### Cooldown
 1 Second
 ## Format

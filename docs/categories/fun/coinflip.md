@@ -6,7 +6,7 @@ Flips a coin (or coins)
 ## Permit
 General
 ### Bot Permits
-`ATTACH_FILES` `EMBED_LINKS`
+`Attach Files` `Embed Links`
 ### Cooldown
 2 seconds
 ## Format

@@ -4,7 +4,7 @@ Dare someone
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 3 seconds
 ## Format

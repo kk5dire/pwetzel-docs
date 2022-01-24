@@ -6,7 +6,7 @@ Determines a user's cuteness
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 Second
 ## Format

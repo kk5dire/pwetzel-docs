@@ -4,7 +4,7 @@ Owo what's this?!
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 6 Seconds
 ## Examples

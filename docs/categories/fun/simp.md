@@ -6,7 +6,7 @@ Are you a simp?
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 1 second
 ## Format

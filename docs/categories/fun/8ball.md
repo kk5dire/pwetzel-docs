@@ -6,7 +6,7 @@ Gives a totally calculated answer to your question
 ## Permit
 General
 ### Bot Permits
-`EMBED_LINKS`
+`Embed Links`
 ### Cooldown
 6 seconds
 ## Format
