@@ -12,7 +12,6 @@ export default {
 		{
 			text: 'Fun',
 			children: [
-				'/categories/fun/topic.md',
 				'/categories/fun/8ball.md',
 				'/categories/fun/ascii.md',
 				'/categories/fun/bored.md',
@@ -34,7 +33,13 @@ export default {
 				'/categories/fun/pp.md',
 				'/categories/fun/psycho-pass.md',
 				'/categories/fun/reddit.md',
-				'/categories/fun/roll.md'
+				'/categories/fun/roll.md',
+				'/categories/fun/say.md',
+				'/categories/fun/simp.md',
+				'/categories/fun/smash-or-pass.md',
+				'/categories/fun/topic.md',
+				'/categories/fun/truth.md',
+				'/categories/fun/waifu.md'
 			],
 		},
 		{
