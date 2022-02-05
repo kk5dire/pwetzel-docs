@@ -1,6 +1,10 @@
 # Chat
 Chat with the bot! (Alternative to chatbot channel)
 
+::: warning
+The Chatbot API Is currently experiencing issues, we are working to fix it ASAP, an ETA has not been dertermined 
+:::
+
 ## Permit
 General
 ### Bot Permits
