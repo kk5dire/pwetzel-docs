@@ -2,8 +2,8 @@
 	<img src="https://i.ibb.co/0DKx2wz/newbanner.png" title="Pwetzel Docs" alt="Pwetzel Docs" />
 </div>
 
-::: tip
-   This website is currently under development and contains little or incorrect content, Please stand by while content gets added or help by [Expanding the docs](https://docs.pwetzel.xyz/contributing.html)
+::: warning
+   We are taking a back seat on the Docs while the bot gets rewritten for the new Discord API changes, Please bear with is as the documentation is very incomplete and may be outdated untill we get a chance to fix it
 :::
 
 # Welcome to the Pwetzel bot Documentation!
