@@ -3,7 +3,7 @@
 </div>
 
 ::: warning
-   We are taking a back seat on the Docs while the bot gets rewritten for the new Discord API changes, Please bear with is as the documentation is very incomplete and may be outdated untill we get a chance to fix it
+   We are taking a back-seat on the Docs while the bot gets rewritten for the new Discord API changes, Please bear with us as the documentation is very incomplete and may be outdated untill we get a chance to fix it! For now if you want to setup the bot check out [this link](https://docs.pwetzel.xyz/setup.html)
 :::
 
 # Welcome to the Pwetzel bot Documentation!
