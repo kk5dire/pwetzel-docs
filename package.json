@@ -38,4 +38,9 @@
     "dependencies": {
         "@discord-message-components/vue": "^0.2.1"
     }
+    "devDependencies": {
+  "trim": ">=0.0.3"
+    // Blop
 }
+}
+
